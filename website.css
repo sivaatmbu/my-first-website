@@ -263,3 +263,8 @@
   .icons ion-icon:hover{
     color: #ff7200;
   }
+.footer{
+    color:white;
+    text align: center;
+    background-color:gray;
+}
